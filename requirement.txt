@@ -9,3 +9,5 @@ streamlit
 scikit-learn
 tensorflow==2.15.0
 tensorboard
+pickle
+keras
